@@ -1,0 +1,37 @@
+h1{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(45, 35, 184);
+}
+
+body{
+    background-color: rgb(184, 119, 35);
+    img{
+        width: 300
+        px;
+        height: auto;
+        display: block;
+        margin: auto;
+    }
+}
+p{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1px;
+    background-color: rgb(184, 107, 35);
+    a{
+        color: white;
+        text-decoration: none;}
+}
+
+footer{
+    background-color: rgb(252, 252, 252);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 5px;
+    width: 100%;
+}
